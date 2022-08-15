@@ -18,6 +18,7 @@
 }
 
 .catalog__link button {
+   display: flex;
    flex-shrink: 0;
 }
 
