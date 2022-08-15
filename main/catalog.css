@@ -764,8 +764,8 @@ button {
       left: 83%;
       top: 3%;
       font-size: 20px;
-      min-width: 21px;
-      min-height: 21px;
+      min-width: auto;
+      min-height: auto;
    }
 
    .catalog__weight {
@@ -818,8 +818,8 @@ button {
       left: 83%;
       top: 3%;
       font-size: 20px;
-      min-width: 21px;
-      min-height: 21px;
+      min-width: auto;
+      min-height: auto;
    }
 
    .catalog__weight {
