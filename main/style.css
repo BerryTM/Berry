@@ -68,7 +68,8 @@ a {
 header {
    position: relative;
    max-width: 100%;
-   min-height: 701px;
+   min-height: 700px;
+   background-image: url(/hero.png);
    background-repeat: no-repeat;
    background-color: #181818;
    background-position: center;
