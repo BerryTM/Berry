@@ -4,12 +4,9 @@
 @import url(./footer.css);
 
 html {
-   scroll-behavior: smooth;
-}
-
-#scrollbox {
-   overflow-y: scroll;
+   overflow-y: auto;
    -webkit-overflow-scrolling: touch;
+   scroll-behavior: smooth;
 }
 
 body {
